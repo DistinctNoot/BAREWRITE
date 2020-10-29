@@ -1,0 +1,3 @@
+29-Oct-20 21:33:23 PM 619- 320 -INFO - [NODE-us_east-127.0.0.1:2333] Successfully added to Node Manager
+29-Oct-20 21:33:24 PM 219- 320 -INFO - [NODE-us_east-127.0.0.1:2333] Attempting to establish WebSocket connection (1/inf)...
+29-Oct-20 21:33:24 PM 861- 320 -INFO - [NODE-us_east-127.0.0.1:2333] Successfully established connection
